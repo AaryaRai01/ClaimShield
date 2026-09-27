@@ -1,0 +1,22 @@
+CLAIMSHIELD — MACHINE LEARNING RESULTS
+==================================================
+
+Dataset Rows: 1000
+Original Columns: 40
+Selected Features: 15
+Training Samples: 800
+Testing Samples: 200
+
+FINAL SVM MODEL
+------------------------------
+Kernel: RBF SVM
+Accuracy: 0.8300
+Precision: 0.6316
+Recall: 0.7347
+F1 Score: 0.6792
+ROC-AUC: 0.8138
+Mean Prediction Confidence: 78.14%
+
+Confusion Matrix:
+[[130  21]
+ [ 13  36]]
